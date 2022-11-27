@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Frank Finelli</h1>
 <h3 align="center">Formidable fixer, crafty cleaner, and a fan of triads with an Oxford comma.</h3>
 
+
 - 🔭 I’m currently working on **Inventory Price Analysis and Python apps**
 
 - 🌱 I’m currently learning **Python, SQL, Excel, Tableau, essentially being a well-rounded "DJ"**
