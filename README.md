@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **on LinkedIn. Feel free to add me with a message. I don't bite.**
 
-- ⚡ Fun fact **The rhinovirus, the virus that causes the common cold, can cause on to become more social, which helps it spread to other hosts. Isn't biology fun?**
+- ⚡ Fun fact **Voltaire and his friends came up with an algorithm to win the French lottery for a few months straight. A merry band of men after my own heart**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
