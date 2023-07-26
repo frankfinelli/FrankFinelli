@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **anything that benefits both of us long-term**
 
-- 🤝 I’m looking for help with **projects that I'm working on, learning Java again (coming soon)**
+- 🤝 I’m looking for help with **NIMROOK - MTG card inventory, portfolio management, and market analysis**
 
 - 👨‍💻 All of my projects are available at [github.com/frankfinelli](github.com/frankfinelli)
 
